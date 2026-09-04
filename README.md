@@ -2,11 +2,11 @@
 
 ## Recommendation
 
-**SELL**
+**BUY**
 
-- Target Price: €34.36
+- Target Price: €60.50
 - Current Price: €57.28
-- Implied Downside: 40%
+- Implied Upside: 5.6%
 
 ---
 
@@ -23,19 +23,23 @@ The report includes:
 - Sensitivity analysis
 - Scenario analysis
 
-The research concludes that Inditex shares were materially overvalued as of 30 July 2026.
+The research concludes that Inditex shares are modestly undervalued as of 30 July 2026, supported by a structural quality premium, a meaningful Americas growth runway, and a fortress balance sheet.
 
 ---
 
 ## Key Findings
 
-- Base Case DCF: €34.36/share
+- Base Case DCF: €60.50/share
 - Current Market Price: €57.28/share
-- Implied Downside: 40%
-- EV/EBITDA Comps: €31.64/share
-- EV/Sales Comps: €36.92/share
+- Implied Upside: 5.6%
+- Bull Case (β = 0.50): €81.30/share
+- Bear Case (β = 1.10): €40.39/share
+- EV/EBITDA Comps: €31.75/share
+- EV/Sales Comps: €37.43/share
 - Market Implied Beta: 0.46
-- Historical Beta: 0.90
+- Measured Beta (STOXX Europe 600): 0.70
+- WACC: 6.50%
+- Terminal Growth: 3.0%
 
 ---
 
@@ -66,12 +70,10 @@ The research concludes that Inditex shares were materially overvalued as of 30 J
 ## Author
 
 Dimitrios Leftakis de Leon
-
 BSc Economics | University of Leeds
 
 ---
 
 ## Disclaimer
 
-This project was produced for educational and portfolio purposes only and does not constitute investment advice.
-`
+This project was produced for educational and informational purposes only. It does not constitute investment advice, an offer to buy or sell securities, or a recommendation regarding any investment strategy. The author holds no position in Inditex shares.
